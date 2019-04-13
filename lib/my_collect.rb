@@ -11,4 +11,5 @@ def my_collect(array)
  
     my_new_collection
 end
+end 
 
